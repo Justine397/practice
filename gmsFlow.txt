@@ -1,0 +1,31 @@
+login 
+   |__ admin 
+   |     |_ add account 
+   |     |       |_ type new user creds 
+   |     |               |_ register 
+   |     |_ see population
+   |     |_ type accounts in search
+   |     |_ imgUpload
+   |     |_ navigate accounts in tabs 
+   |     |         |_ click account view 
+   |     |         |          |_ edit account info 
+   |     |         |                     |_ save
+   |     |         |_ remove account
+   |     |_ logout
+   |      
+   |_ instructor
+   |     |_ navigate year tab and see students 
+   |     |           |_ click student view
+   |     |           |         |_ edit grades in table
+   |     |           |                    |_ modify grades btn 
+   |     |           |_ add grades
+   |     |                  |_ type grades & subject
+   |     |                            |_ add grades btn 
+   |     |_ type students in search
+   |     |_ imgUpload
+   |            |_ logout
+   | 
+   |_ student
+        |_ navigate year tab and see own grades 
+        |_ imgUpload 
+        |_ logout
